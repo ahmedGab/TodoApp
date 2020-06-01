@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.listItems{
+  margin-top: 100px;
+  display: flex;
+  flex-wrap: wrap ;
+
+}
+.inputs{
+  margin-top: 20px;
+}
+.item{
+  max-width: 300px ;
+
+  margin: 10px;
+}
